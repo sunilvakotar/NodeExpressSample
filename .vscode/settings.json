@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/538f85e0-869c-41f3-90c1-581ffe2be893/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/sunil-azure-learning",
+    "appService.deploySubpath": "."
+}
